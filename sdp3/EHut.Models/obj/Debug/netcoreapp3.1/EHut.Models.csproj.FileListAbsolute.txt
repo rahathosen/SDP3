@@ -1,0 +1,12 @@
+H:\GitHub\SDP3\sdp3\EHut.Models\bin\Debug\netcoreapp3.1\EHut.Models.deps.json
+H:\GitHub\SDP3\sdp3\EHut.Models\bin\Debug\netcoreapp3.1\EHut.Models.runtimeconfig.json
+H:\GitHub\SDP3\sdp3\EHut.Models\bin\Debug\netcoreapp3.1\EHut.Models.runtimeconfig.dev.json
+H:\GitHub\SDP3\sdp3\EHut.Models\bin\Debug\netcoreapp3.1\EHut.Models.dll
+H:\GitHub\SDP3\sdp3\EHut.Models\bin\Debug\netcoreapp3.1\EHut.Models.pdb
+H:\GitHub\SDP3\sdp3\EHut.Models\obj\Debug\netcoreapp3.1\EHut.Models.csprojAssemblyReference.cache
+H:\GitHub\SDP3\sdp3\EHut.Models\obj\Debug\netcoreapp3.1\EHut.Models.AssemblyInfoInputs.cache
+H:\GitHub\SDP3\sdp3\EHut.Models\obj\Debug\netcoreapp3.1\EHut.Models.AssemblyInfo.cs
+H:\GitHub\SDP3\sdp3\EHut.Models\obj\Debug\netcoreapp3.1\EHut.Models.csproj.CoreCompileInputs.cache
+H:\GitHub\SDP3\sdp3\EHut.Models\obj\Debug\netcoreapp3.1\EHut.Models.dll
+H:\GitHub\SDP3\sdp3\EHut.Models\obj\Debug\netcoreapp3.1\EHut.Models.pdb
+H:\GitHub\SDP3\sdp3\EHut.Models\obj\Debug\netcoreapp3.1\EHut.Models.genruntimeconfig.cache

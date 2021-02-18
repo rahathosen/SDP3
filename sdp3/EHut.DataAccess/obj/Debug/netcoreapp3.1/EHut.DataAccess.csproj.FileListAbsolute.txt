@@ -1,0 +1,17 @@
+H:\GitHub\SDP3\sdp3\EHut.DataAccess\bin\Debug\netcoreapp3.1\EHut.Models.dll
+H:\GitHub\SDP3\sdp3\EHut.DataAccess\bin\Debug\netcoreapp3.1\EHut.Utility.dll
+H:\GitHub\SDP3\sdp3\EHut.DataAccess\obj\Debug\netcoreapp3.1\EHut.DataAccess.csprojAssemblyReference.cache
+H:\GitHub\SDP3\sdp3\EHut.DataAccess\obj\Debug\netcoreapp3.1\EHut.DataAccess.AssemblyInfoInputs.cache
+H:\GitHub\SDP3\sdp3\EHut.DataAccess\obj\Debug\netcoreapp3.1\EHut.DataAccess.AssemblyInfo.cs
+H:\GitHub\SDP3\sdp3\EHut.DataAccess\bin\Debug\netcoreapp3.1\EHut.DataAccess.deps.json
+H:\GitHub\SDP3\sdp3\EHut.DataAccess\bin\Debug\netcoreapp3.1\EHut.DataAccess.runtimeconfig.json
+H:\GitHub\SDP3\sdp3\EHut.DataAccess\bin\Debug\netcoreapp3.1\EHut.DataAccess.runtimeconfig.dev.json
+H:\GitHub\SDP3\sdp3\EHut.DataAccess\bin\Debug\netcoreapp3.1\EHut.DataAccess.dll
+H:\GitHub\SDP3\sdp3\EHut.DataAccess\bin\Debug\netcoreapp3.1\EHut.DataAccess.pdb
+H:\GitHub\SDP3\sdp3\EHut.DataAccess\bin\Debug\netcoreapp3.1\EHut.Models.pdb
+H:\GitHub\SDP3\sdp3\EHut.DataAccess\bin\Debug\netcoreapp3.1\EHut.Utility.pdb
+H:\GitHub\SDP3\sdp3\EHut.DataAccess\obj\Debug\netcoreapp3.1\EHut.DataAccess.csproj.CoreCompileInputs.cache
+H:\GitHub\SDP3\sdp3\EHut.DataAccess\obj\Debug\netcoreapp3.1\EHut.DataAccess.csproj.CopyComplete
+H:\GitHub\SDP3\sdp3\EHut.DataAccess\obj\Debug\netcoreapp3.1\EHut.DataAccess.dll
+H:\GitHub\SDP3\sdp3\EHut.DataAccess\obj\Debug\netcoreapp3.1\EHut.DataAccess.pdb
+H:\GitHub\SDP3\sdp3\EHut.DataAccess\obj\Debug\netcoreapp3.1\EHut.DataAccess.genruntimeconfig.cache
