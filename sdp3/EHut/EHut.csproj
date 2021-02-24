@@ -25,4 +25,10 @@
     <ProjectReference Include="..\EHut.Models\EHut.Models.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Pages\Admin\" />
+    <Folder Include="Pages\Customer\Home\" />
+    <Folder Include="Pages\Customer\Cart\" />
+  </ItemGroup>
+
 </Project>
