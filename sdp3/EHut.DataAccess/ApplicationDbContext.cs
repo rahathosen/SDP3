@@ -1,6 +1,7 @@
 ﻿using EHut.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using System.Collections.Generic;
 
 namespace EHut.DataAccess
 {
@@ -12,5 +13,6 @@ namespace EHut.DataAccess
         }
 
         public DbSet<Category> Category { get; set; }
+        public DbSet<FoodType> FoodType { get; set; }
     }
 }
