@@ -5,7 +5,7 @@ using System.Text;
 
 namespace EHut.DataAccess.Data.Repository
 {
-    internal class UnitOfWork : IUnitOfWork
+    public class UnitOfWork : IUnitOfWork
     {
         private readonly ApplicationDbContext _db;
 
