@@ -10,3 +10,15 @@ H:\GitHub\SDP3\sdp3\EHut.Utility\obj\Debug\netcoreapp3.1\EHut.Utility.csproj.Cor
 H:\GitHub\SDP3\sdp3\EHut.Utility\obj\Debug\netcoreapp3.1\EHut.Utility.dll
 H:\GitHub\SDP3\sdp3\EHut.Utility\obj\Debug\netcoreapp3.1\EHut.Utility.pdb
 H:\GitHub\SDP3\sdp3\EHut.Utility\obj\Debug\netcoreapp3.1\EHut.Utility.genruntimeconfig.cache
+D:\GitHub\SDP3\sdp3\EHut.Utility\bin\Debug\netcoreapp3.1\EHut.Utility.deps.json
+D:\GitHub\SDP3\sdp3\EHut.Utility\bin\Debug\netcoreapp3.1\EHut.Utility.runtimeconfig.json
+D:\GitHub\SDP3\sdp3\EHut.Utility\bin\Debug\netcoreapp3.1\EHut.Utility.runtimeconfig.dev.json
+D:\GitHub\SDP3\sdp3\EHut.Utility\bin\Debug\netcoreapp3.1\EHut.Utility.dll
+D:\GitHub\SDP3\sdp3\EHut.Utility\bin\Debug\netcoreapp3.1\EHut.Utility.pdb
+D:\GitHub\SDP3\sdp3\EHut.Utility\obj\Debug\netcoreapp3.1\EHut.Utility.csprojAssemblyReference.cache
+D:\GitHub\SDP3\sdp3\EHut.Utility\obj\Debug\netcoreapp3.1\EHut.Utility.AssemblyInfoInputs.cache
+D:\GitHub\SDP3\sdp3\EHut.Utility\obj\Debug\netcoreapp3.1\EHut.Utility.AssemblyInfo.cs
+D:\GitHub\SDP3\sdp3\EHut.Utility\obj\Debug\netcoreapp3.1\EHut.Utility.csproj.CoreCompileInputs.cache
+D:\GitHub\SDP3\sdp3\EHut.Utility\obj\Debug\netcoreapp3.1\EHut.Utility.dll
+D:\GitHub\SDP3\sdp3\EHut.Utility\obj\Debug\netcoreapp3.1\EHut.Utility.pdb
+D:\GitHub\SDP3\sdp3\EHut.Utility\obj\Debug\netcoreapp3.1\EHut.Utility.genruntimeconfig.cache

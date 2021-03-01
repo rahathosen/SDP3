@@ -5361,19 +5361,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Rahat\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\GitHub\\SDP3\\sdp3\\EHut.Utility\\EHut.Utility.csproj",
+      "projectUniqueName": "D:\\GitHub\\SDP3\\sdp3\\EHut.Utility\\EHut.Utility.csproj",
       "projectName": "EHut.Utility",
-      "projectPath": "H:\\GitHub\\SDP3\\sdp3\\EHut.Utility\\EHut.Utility.csproj",
-      "packagesPath": "C:\\Users\\Rahat\\.nuget\\packages\\",
-      "outputPath": "H:\\GitHub\\SDP3\\sdp3\\EHut.Utility\\obj\\",
+      "projectPath": "D:\\GitHub\\SDP3\\sdp3\\EHut.Utility\\EHut.Utility.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub\\SDP3\\sdp3\\EHut.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Rahat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

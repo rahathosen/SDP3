@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "H:\\GitHub\\SDP3\\sdp3\\EHut.Models\\EHut.Models.csproj": {}
+    "D:\\GitHub\\SDP3\\sdp3\\EHut.Models\\EHut.Models.csproj": {}
   },
   "projects": {
-    "H:\\GitHub\\SDP3\\sdp3\\EHut.Models\\EHut.Models.csproj": {
+    "D:\\GitHub\\SDP3\\sdp3\\EHut.Models\\EHut.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\GitHub\\SDP3\\sdp3\\EHut.Models\\EHut.Models.csproj",
+        "projectUniqueName": "D:\\GitHub\\SDP3\\sdp3\\EHut.Models\\EHut.Models.csproj",
         "projectName": "EHut.Models",
-        "projectPath": "H:\\GitHub\\SDP3\\sdp3\\EHut.Models\\EHut.Models.csproj",
-        "packagesPath": "C:\\Users\\Rahat\\.nuget\\packages\\",
-        "outputPath": "H:\\GitHub\\SDP3\\sdp3\\EHut.Models\\obj\\",
+        "projectPath": "D:\\GitHub\\SDP3\\sdp3\\EHut.Models\\EHut.Models.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\SDP3\\sdp3\\EHut.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Rahat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

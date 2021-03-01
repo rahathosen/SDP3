@@ -9196,19 +9196,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Rahat\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\GitHub\\SDP3\\sdp3\\EHut\\EHut.csproj",
+      "projectUniqueName": "D:\\GitHub\\SDP3\\sdp3\\EHut\\EHut.csproj",
       "projectName": "EHut",
-      "projectPath": "H:\\GitHub\\SDP3\\sdp3\\EHut\\EHut.csproj",
-      "packagesPath": "C:\\Users\\Rahat\\.nuget\\packages\\",
-      "outputPath": "H:\\GitHub\\SDP3\\sdp3\\EHut\\obj\\",
+      "projectPath": "D:\\GitHub\\SDP3\\sdp3\\EHut\\EHut.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub\\SDP3\\sdp3\\EHut\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Rahat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9222,11 +9222,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "H:\\GitHub\\SDP3\\sdp3\\EHut.DataAccess\\EHut.DataAccess.csproj": {
-              "projectPath": "H:\\GitHub\\SDP3\\sdp3\\EHut.DataAccess\\EHut.DataAccess.csproj"
+            "D:\\GitHub\\SDP3\\sdp3\\EHut.DataAccess\\EHut.DataAccess.csproj": {
+              "projectPath": "D:\\GitHub\\SDP3\\sdp3\\EHut.DataAccess\\EHut.DataAccess.csproj"
             },
-            "H:\\GitHub\\SDP3\\sdp3\\EHut.Models\\EHut.Models.csproj": {
-              "projectPath": "H:\\GitHub\\SDP3\\sdp3\\EHut.Models\\EHut.Models.csproj"
+            "D:\\GitHub\\SDP3\\sdp3\\EHut.Models\\EHut.Models.csproj": {
+              "projectPath": "D:\\GitHub\\SDP3\\sdp3\\EHut.Models\\EHut.Models.csproj"
             }
           }
         }
